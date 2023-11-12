@@ -1,0 +1,25 @@
+.card_block{
+    max-width: 300px;
+    margin: 0 auto;
+}
+.slider_button{
+    display: flex;
+    justify-content: space-around;
+}
+.button_left{
+    cursor: pointer;
+    transform: rotate(90deg);
+    width: 50px;
+    border: none;
+    border-radius: 50%;
+}
+.button_right{
+    cursor: pointer;
+    transform: rotate(-90deg);
+    width: 50px;
+    border: none;
+    border-radius: 50%;
+}
+.h3{
+    width: 100px;
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "front": "apple",
+        "back": "Яблоко",
+        "setName":"English"
+    },
+    {
+        "id": 2,
+        "front": "Banana",
+        "back": "Банан",
+        "setName":"English"
+    },
+    {
+        "id": 3,
+        "front": "pear",
+        "back": "Груша",
+        "setName":"English"
+    },
+    {
+        "id": 4,
+        "front": "cucumber",
+        "back": "огурец",
+        "setName":"css-свойство"
+    },
+    {
+        "id": 5,
+        "front": "apple",
+        "back": "Яблоко",
+        "setName":"css-свойство"
+    },
+    {
+        "id": 6,
+        "front": "tomato",
+        "back": "Помидор",
+        "setName":"English"
+    },
+    {
+        "id": 7,
+        "front": "carrot",
+        "back": "Морковь",
+        "setName":"css-свойство"
+    },
+    {
+        "id": 8,
+        "front": "beet",
+        "back": "Свекла",
+        "setName":"English"
+    },
+    {
+        "id": 9,
+        "front": "potato",
+        "back": "Картошка",
+        "setName":"English"
+    },
+    {
+        "id": 10,
+        "front": "parsley",
+        "back": "Петрушка",
+        "setName":"css-свойство"
+    }
+]

@@ -1,0 +1,28 @@
+form{
+    width: 180px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+h3{
+    text-align: center;
+}
+.label_2{
+margin-top: 10px;
+}
+.submit1{
+    width: 100px;
+    margin: 10px auto 10px auto;
+}
+textarea, input[type="text"]{
+    width: 100%;
+}
+.error-msg{
+    color: red;
+    font-size: 11px;
+    margin-top: 0;
+}
+.submit{
+    width: 120px;
+    margin: 10px auto 10px auto;
+}

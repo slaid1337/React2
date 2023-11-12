@@ -1,0 +1,32 @@
+.header{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+}
+.link{
+    text-decoration: none;
+    color: aliceblue;
+}
+.set-list{
+    list-style: none;
+    max-width: 300px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    margin: 20px auto 0 auto;
+}
+.list-set__item{
+    width: 100px;
+    padding: 20px;
+    border: 1px solid blue;
+    text-align: center;
+    border-radius: 10px;
+    color: blue;
+}
+.list-set__btn{
+    text-decoration: none;
+}
+h2{
+    width: 150px;
+    margin: 0 auto 0 auto;
+}
